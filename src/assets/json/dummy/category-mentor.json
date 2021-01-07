@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "category": "Petani Ladang"
+        },
+        {
+            "id": 2,
+            "category": "Petani Buah"
+        },
+        {
+            "id": 3,
+            "category": "Petani Bunga"
+        },
+        {
+            "id": 4,
+            "category": "Petani Kebun"
+        }
+    ]
+}
